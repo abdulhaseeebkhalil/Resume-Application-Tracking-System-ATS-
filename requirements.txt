@@ -6,3 +6,4 @@ Pillow>=9.0.0
 pandas==2.2.0
 numpy==1.26.3
 poppler-utils==0.1.0
+fpdf2>=2.7.4
